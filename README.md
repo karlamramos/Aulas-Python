@@ -7,5 +7,5 @@ informacoes_gerais = {
 "tecnologias": ["Em desenvolvimento"]
 "ocupacoes": {
         "estudante": "Graduanda em Ciência de Dados na Mackenzie",
-"mensagem": "Seja muito bem-vinde ao meu perfil do GitHub!"
+"mensagem": "Seja muito bem-vindo ao meu perfil do GitHub!"
 }
