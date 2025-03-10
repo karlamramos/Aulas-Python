@@ -1,0 +1,16 @@
+# Criando um vetor (lista) com valores inteiros
+vetor = [1, 2, 3, 4, 5]
+
+# Exibindo o vetor
+print("Vetor:", vetor)
+
+# Acessando um elemento específico (por índice)
+print("Elemento na posição 2:", vetor[2])
+
+# Adicionando um elemento ao final do vetor
+vetor.append(6)
+print("Vetor após adicionar 6:", vetor)
+
+# Removendo um elemento específico
+vetor.remove(3)
+print("Vetor após remover 3:", vetor)
